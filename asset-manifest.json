@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webshop-post-stripe/static/css/main.34de6062.chunk.css",
+    "main.js": "/webshop-post-stripe/static/js/main.13252e24.chunk.js",
+    "main.js.map": "/webshop-post-stripe/static/js/main.13252e24.chunk.js.map",
+    "runtime~main.js": "/webshop-post-stripe/static/js/runtime~main.17a726b2.js",
+    "runtime~main.js.map": "/webshop-post-stripe/static/js/runtime~main.17a726b2.js.map",
+    "static/js/2.32538b4f.chunk.js": "/webshop-post-stripe/static/js/2.32538b4f.chunk.js",
+    "static/js/2.32538b4f.chunk.js.map": "/webshop-post-stripe/static/js/2.32538b4f.chunk.js.map",
+    "index.html": "/webshop-post-stripe/index.html",
+    "precache-manifest.16a16fbd160ed3c1423034c7ae5053cf.js": "/webshop-post-stripe/precache-manifest.16a16fbd160ed3c1423034c7ae5053cf.js",
+    "service-worker.js": "/webshop-post-stripe/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/webshop-post-stripe/static/css/main.34de6062.chunk.css.map"
+  }
+}
